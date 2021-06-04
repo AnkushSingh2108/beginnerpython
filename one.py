@@ -1,0 +1,11 @@
+print('ankush',end='0')
+print("singh")
+print("ankush","singh",end="1")
+'''
+h
+el
+lo
+o
+'''
+print('--------------')
+print("C:\\ankush")
